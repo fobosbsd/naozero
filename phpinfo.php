@@ -1,1 +1,1 @@
-<?php phpinfo(); ?>
+<?php phpinfo(); echo 'Test php config'; ?>
