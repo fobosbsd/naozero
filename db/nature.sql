@@ -4,7 +4,6 @@ CREATE TABLE `wp_ai1ec_event_category_meta` (
   `term_image` varchar(254) DEFAULT NULL,
   PRIMARY KEY (`term_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-/*!40101 SET character_set_client = @saved_cs_client */;
 
 LOCK TABLES `wp_ai1ec_event_category_meta` WRITE;
 /*!40000 ALTER TABLE `wp_ai1ec_event_category_meta` DISABLE KEYS */;
