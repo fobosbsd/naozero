@@ -1,1 +1,1 @@
-<?php phpinfo(); echo('php'); ?>
+<?php phpinfo(); echo('php ааааа'); ?>
